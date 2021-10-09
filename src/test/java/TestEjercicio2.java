@@ -27,7 +27,7 @@ public class TestEjercicio2 extends Base{
         WebElement RightClick = driver.findElement(By.xpath("//*[@id=\"rightClickBtn\"]"));
         act.contextClick(RightClick).perform();
 
-        WebElement OneClick = driver.findElement(By.xpath("/html/body/div[2]/div/div/div[2]/div[2]/div[1]/div[3]/button"));
+        WebElement OneClick = driver.findElement(By.xpath("//div[@class='mt-4']//following::button"));
         act.click(OneClick).perform();
 
         String DoubleClickText = driver.findElement(By.id("doubleClickMessage")).getText();
