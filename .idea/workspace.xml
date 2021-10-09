@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="RunManager" selected="TestNG.C:/Users/SPELFM/Documents/GitHub/QABookcamp/Ejercicio2xml.xml">
+    <configuration name="C:/Users/SPELFM/Documents/GitHub/QABookcamp/Ejercicio2xml.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="QABookcamp" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/Ejercicio2xml.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestEjercicio2" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="QABookcamp" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="TestEjercicio2" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.C:/Users/SPELFM/Documents/GitHub/QABookcamp/Ejercicio2xml.xml" />
+        <item itemvalue="TestNG.TestEjercicio2" />
+      </list>
+    </recent_temporary>
+  </component>
+</project>
